@@ -1,0 +1,36 @@
+{
+  "name": "beagle-servo",
+  "description": "Simple servo controller for Beaglebone Black",
+  "version": "0.0.1",
+  "private": true,
+  "author": {
+      "name": "Teis Draiby",
+      "email": "teis@teis.net"
+  },
+  "contributors": [
+    {
+      "name": "Teis Draiby",
+      "email": "teis@teis.net"
+    },
+    {
+      "name": "Lars Granhoej",
+      "email": "lars@itsignatur.dk"
+    }
+  ],
+  "dependencies": {
+    "bonescript": "~0.2.3"
+  }
+  ,
+  "keywords": [
+    "servo",
+    "beaglebone",
+    "beagleboard black"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/teisnet/beagle-servo"
+  },
+  "engines": {
+    "node": ">= 0.8.16"
+  }
+}
