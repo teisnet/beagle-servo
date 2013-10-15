@@ -1,6 +1,6 @@
 # beagle-servo
 
-Simple servo controller for Beaglebone Black.
+Very simple servo controller for Beaglebone Black. Under development.
 
 v0.0.1
 
