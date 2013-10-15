@@ -7,7 +7,7 @@ v0.0.1
 
 ## Installation
 ```
-npm install "git://github.com/teisnet/beagle-servo.git"
+npm install git://github.com/teisnet/beagle-servo.git
 ```
 
 ## Usage
