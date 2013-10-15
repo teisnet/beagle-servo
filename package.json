@@ -2,7 +2,6 @@
   "name": "beagle-servo",
   "description": "Simple servo controller for Beaglebone Black",
   "version": "0.0.1",
-  "private": true,
   "author": {
       "name": "Teis Draiby",
       "email": "teis@teis.net"
