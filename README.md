@@ -1,6 +1,8 @@
 # beagle-servo
 
-Simple servo controller for Beaglebone Black
+Simple servo controller for Beaglebone Black.
+
+v0.0.1
 
 
 ## Installation
